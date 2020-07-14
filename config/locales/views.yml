@@ -1,0 +1,20 @@
+pt-BR: 
+  views:
+    appname: "FREE BOOKS"
+    new: "Cadastrar"
+    edit: "Editar"
+    show: "Visualizar"
+    back: "Voltar"
+    search: "Pesquisa Completa"
+    are_you_sure: "Tem certeza que deseja apagar?"
+    destroy: "Apagar"
+    authors:
+      title: "Autores"
+      name: "Nome"
+      bio: "Biografia"
+    books:
+      title: "Livros"
+      name: "Nome"
+      author_id: "Autor"
+      genre_id: "Gênero"
+      price: "Valor (-10%)"
