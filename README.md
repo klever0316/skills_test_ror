@@ -55,6 +55,7 @@ ATIVIDADES A SEREM IMPLEMENTADAS:
 # ATIVIDADE PRINCIPAL
 
 - (10pt) Como usuário desejo página de pesquisa com os seguintes requisitos:
+  - Utilizar a gem ransack para essa atividade (Vai te ajudar) (https://github.com/activerecord-hackery/ransack)
   - Posso pesquisar por "nome do autor" ou "nome do livro" ou "editora" para obter o resultado;
   - Precisa de paginação (OBRIGATÓRIO);
   - Precisa de ordenação por ordem alfabética (FACULTATIVO);
