@@ -7,7 +7,7 @@
     - um repositório que a qual você irá commitar e enviar o link após o término;
 
 # Descrição da atividade:
-Você terá 2:15min (onde 15 minutos será para a preparação do seu ambiente) para desenvolver o máximo de atividades listadas abaixo. Cada uma delas lhe dará 1pt. Fique tranquilo, você terá tempo suficiente para fazê-las se souber administrar seu tempo.
+Você terá 3h:15min (onde 15 minutos será para a preparação do seu ambiente) para desenvolver o máximo de atividades listadas abaixo. Cada uma delas lhe dará 1pt. Fique tranquilo, você terá tempo suficiente para fazê-las se souber administrar seu tempo.
 Existe uma atividade entitulada "atividade principal", ela, por si só, valerá 10pts e possui dependências de atividades de 1pt listadas acima dela.
 
 Após o envio do email, será iniciado o contador de tempo. TODA E QUALQUER ATIVIDADE ENTREGUE FORA DAS 2:15min SERÁ DESCARTADA! Administre bem seu tempo para que isso não ocorra.
@@ -61,3 +61,7 @@ ATIVIDADES A SEREM IMPLEMENTADAS:
   - Precisa de ordenação por ordem alfabética (FACULTATIVO);
   - Precisa de página de visualização (OBRIGATÓRIO);
 
+
+# DESAFIO
+
+Caso voce ainda tenha tempo disponível e queira nos impressionar, voce poderá publicar seu trabalho no heroku. lembrando que ele *NÃO É OBRIGATÓRIO* e  lembrando também que uma boa primeira impressão é a que fica! Deixamos ao seu critério.
