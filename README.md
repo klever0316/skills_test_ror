@@ -64,4 +64,4 @@ ATIVIDADES A SEREM IMPLEMENTADAS:
 
 # DESAFIO
 
-Caso voce ainda tenha tempo disponível e queira nos impressionar, voce poderá publicar seu trabalho no heroku. lembrando que ele **NÃO É OBRIGATÓRIO** e  lembrando também que uma boa primeira impressão é a que fica! Deixamos ao seu critério.
+Caso voce ainda queira nos impressionar, voce poderá publicar seu trabalho no heroku. Você tem 24 horas após o término do seu projeto.Lembrando que ele **NÃO É OBRIGATÓRIO** e lembrando também que uma boa primeira impressão é a que fica! Deixamos ao seu critério.
