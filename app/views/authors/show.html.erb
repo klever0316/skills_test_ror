@@ -10,5 +10,10 @@
   <%= @author.bio %>
 </p>
 
+<p>
+  <strong>Image:</strong>
+  <%= image_tag @author.image.thumb.url %>
+</p>
+
 <%= link_to t("views.edit"), edit_author_path(@author) %> |
 <%= link_to t("views.back"), authors_path %>
